@@ -1,5 +1,6 @@
 package com.fishy.orescape;
 
+import com.fishy.orescape.items.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.resources.Identifier;
@@ -22,6 +23,7 @@ public class Orescape implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		ModItems.initialize();
 	}
 
 	public static Identifier id(String path) {
