@@ -16,7 +16,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.fishy.orscape.Orescape"
+			"com.fishy.orescape.Orescape"
 		]
 	},
 	"mixins": [

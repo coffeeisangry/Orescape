@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "com.fishy.orscape.mixin",
+	"package": "com.fishy.orescape.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
 		"ExampleMixin"

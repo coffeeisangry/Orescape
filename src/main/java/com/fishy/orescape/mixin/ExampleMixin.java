@@ -1,4 +1,4 @@
-package com.fishy.orscape.mixin;
+package com.fishy.orescape.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

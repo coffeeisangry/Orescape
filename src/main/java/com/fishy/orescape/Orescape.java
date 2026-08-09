@@ -1,4 +1,4 @@
-package com.fishy.orscape;
+package com.fishy.orescape;
 
 import net.fabricmc.api.ModInitializer;
 
